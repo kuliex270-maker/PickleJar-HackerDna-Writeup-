@@ -1,6 +1,11 @@
+
+
+
+
+
 HackerDNA Lab Writeup: Anonymous 2
 Difficulty: Easy
-[(https://hackerdna.com/labs/anonymous-2)]
+https://hackerdna.com/labs/anonymous-2
 Core Concepts: Service Enumeration, Banner Grabbing, Exploiting Known Backdoors, Port Triggering.
 
 Phase 1: Reconnaissance & Fingerprinting
