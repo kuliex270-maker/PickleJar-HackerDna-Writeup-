@@ -7,8 +7,12 @@ Moving on from FiPloit to Cronpocalypse! This lab is a classic demonstration of 
 
 As requested, this writeup outlines the intended exploitation path, the underlying concepts, and the exact commands to compromise the machine, with all flags redacted so you can still claim the points.
 
+
 HackerDNA Lab Writeup: Cronpocalypse
+
+
 Difficulty: Intermediate
+
 
 [
 ](https://hackerdna.com/labs/cronpocalypse)
