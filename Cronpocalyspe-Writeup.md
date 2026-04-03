@@ -9,6 +9,7 @@ As requested, this writeup outlines the intended exploitation path, the underlyi
 HackerDNA Lab Writeup: Cronpocalypse
 
 https://hackerdna.com/labs/cronpocalypse
+
 Difficulty: Intermediate
 
 
