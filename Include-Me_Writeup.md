@@ -1,5 +1,6 @@
 This writeup covers the Include me lab on HackerDNA. This challenge is a quintessential introduction to Local File Inclusion (LFI), a vulnerability that occurs when an application uses untrusted input to build a path to a file that is then "included" or read by the server.
-
+[
+](https://hackerdna.com/labs/include-me)
 HackerDNA Lab Writeup: Include me
 Difficulty: Easy
 
