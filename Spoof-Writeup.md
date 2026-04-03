@@ -1,9 +1,16 @@
+
+
+
+
+
+
 This writeup covers the Spoof! lab on HackerDNA. This challenge is a classic study in Host-Based Authentication vulnerabilities, specifically how older services like rlogin and rsh can be tricked if they trust an IP address without secondary verification.
 
 HackerDNA Lab Writeup: Spoof!
 Difficulty: Easy
-[
-](https://hackerdna.com/labs/spoof)
+
+https://hackerdna.com/labs/spoof
+
 Core Concepts: Service Enumeration, .rhosts Misconfiguration, IP Spoofing/Identity Theft, R-services Exploitation.
 
 Phase 1: Reconnaissance & Enumeration
