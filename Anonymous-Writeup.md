@@ -3,7 +3,8 @@ This lab focuses on the dangers of misconfigured network shares and improper fil
 
 HackerDNA Lab Writeup: Anonymous
 Difficulty: Beginner-Intermediate
-
+[
+](https://hackerdna.com/labs/anonymous)
 Core Concepts: Anonymous FTP/SMB Access, Enumeration, SSH Key Theft, SUID Privilege Escalation
 
 Objective
