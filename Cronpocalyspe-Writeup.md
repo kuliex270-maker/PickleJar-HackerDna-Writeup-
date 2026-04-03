@@ -10,9 +10,10 @@
 
 
 
-Moving on from FiPloit to Cronpocalypse! This lab is a classic demonstration of why proper file permissions and job scheduling security are absolutely critical in Linux environments.
 
-As requested, this writeup outlines the intended exploitation path, the underlying concepts, and the exact commands to compromise the machine, with all flags redacted so you can still claim the points.
+
+
+This writeup outlines the intended exploitation path, the underlying concepts, and the exact commands to compromise the machine, with all flags redacted so you can still claim the points.
 
 
 HackerDNA Lab Writeup: Cronpocalypse
