@@ -1,6 +1,6 @@
 
-
-
+[
+](https://hackerdna.com/labs/cronpocalypse)
 
 
 Moving on from FiPloit to Cronpocalypse! This lab is a classic demonstration of why proper file permissions and job scheduling security are absolutely critical in Linux environments.
@@ -14,8 +14,6 @@ HackerDNA Lab Writeup: Cronpocalypse
 Difficulty: Intermediate
 
 
-[
-](https://hackerdna.com/labs/cronpocalypse)
 Core Concepts: Enumeration, File Permissions, Cron Job Privilege Escalation
 
 Objective
