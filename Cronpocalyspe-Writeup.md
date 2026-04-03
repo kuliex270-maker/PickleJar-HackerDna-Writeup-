@@ -5,6 +5,8 @@ As requested, this writeup outlines the intended exploitation path, the underlyi
 HackerDNA Lab Writeup: Cronpocalypse
 Difficulty: Intermediate
 
+[
+](https://hackerdna.com/labs/cronpocalypse)
 Core Concepts: Enumeration, File Permissions, Cron Job Privilege Escalation
 
 Objective
